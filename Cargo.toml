@@ -1,0 +1,7 @@
+[package]
+name = "doshitbehappy"
+authors = ["Dhruv Jauhar <me@dhruvjauhar.com>"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
